@@ -1,0 +1,11 @@
+img.redimension{
+    width: 400 px;
+    height: 200 px;
+} 
+h1,h2{
+    font-weight:700;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
